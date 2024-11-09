@@ -6,7 +6,7 @@ package com.nt.PRACTICE;
  */
 public class App 
 {
-	public int sum(int a,int b) {
+	public  static int  sum(int a,int b) {
 		return a+b;
 	}
 	
@@ -15,6 +15,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Hello git" );
+        
         
     }
 }
