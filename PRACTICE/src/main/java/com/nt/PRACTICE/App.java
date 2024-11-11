@@ -20,8 +20,5 @@ public class App
         System.out.println("this is developed by pavan and anand");
         
         
-        System.out.println( "Hello thi i pavan" );
-        
-        
     }
 }
